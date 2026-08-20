@@ -25,10 +25,10 @@ a{
   text-align: center;
 }
 a:hover{
-  color: rgb(53, 53, 54);
+  color: rgb(250, 250, 252);
 }
 body.modo_escuro {
-  background-color: black;
+  background-color: rgb(50, 50, 50);
   color: seashell;
 }
 
